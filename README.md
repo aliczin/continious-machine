@@ -1,6 +1,6 @@
 # Continious-Machine
 
-Digital Windows Station
+Digital Windows/Linux Station
 
 ## Scooper
 
@@ -10,11 +10,27 @@ Digital Windows Station
 * msgit
 * jdk
 * wsl2
+* sysinternals
 
 ## LifeCycle
 
 * https://github.com/caarlos0/fork-cleaner/ 
+* wakatime
 
 ## DataStorage
 
 * https://github.com/valeriansaliou/sonic
+
+## Working Cycle
+
+### Analyze
+
+* TOBE
+
+### Development
+
+* 
+
+## Administer
+
+* https://openhardwaremonitor.org/
