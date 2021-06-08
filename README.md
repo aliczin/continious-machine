@@ -9,7 +9,7 @@ Digital Windows/Linux Station
 * far
 * msgit
 * jdk
-* wsl2
+* wsl2 with https://github.com/DDoSolitary/LxRunOffline
 * sysinternals
 
 ## LifeCycle
